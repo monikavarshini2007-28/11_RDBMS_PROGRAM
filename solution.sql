@@ -1,4 +1,5 @@
-
+create database ENROLLMENT;
+use ENROLLMENT;
 CREATE TABLE StudentDetails_Student (
 StudentID INT,
 StudentName VARCHAR(30),
